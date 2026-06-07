@@ -1,0 +1,17 @@
+.env
+.env.*
+node_modules/
+dist/
+.DS_Store
+*.log
+*.csv
+*.xlsx
+*.parquet
+*.pkl
+*.onnx
+*.zip
+*.whl
+firebase-debug.log
+serviceAccount*.json
+*.pem
+*.key
