@@ -57,4 +57,9 @@ See:
 - [Privacy notes](PRIVACY.md)
 - [Notice](NOTICE.md)
 
+- ## Further reading
+
+- [Browser-local AutoML with ONNX export packages](https://www.linkedin.com/posts/reza-rasshidi_a-practical-look-at-browser-local-automl-activity-7472193205896224768-f6rC)
+
 This repository is public documentation only, not the private MLdeck source-code repository.
+
