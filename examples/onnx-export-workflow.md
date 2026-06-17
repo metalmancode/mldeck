@@ -10,7 +10,7 @@ Matching public pages:
 ## Workflow
 1. Train and review an exploratory model in MLdeck.
 2. Review the feature schema and target configuration.
-3. Export an ONNX-oriented artifact package when available.
+3. Export an ONNX-oriented artifact package generated directly in the browser when available.
 4. Review included metadata and manifest-style information.
 5. Run parity validation outside MLdeck before relying on the exported artifact.
 6. Test inference behavior with representative inputs and edge cases.

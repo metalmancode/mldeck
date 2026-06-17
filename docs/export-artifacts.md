@@ -10,11 +10,11 @@ Relevant public pages:
 ## Artifact Types
 MLdeck may present exportable artifacts such as:
 
-- ONNX package for portable inference testing.
+- ONNX package for portable inference testing, generated directly in the browser when available.
 - Docker package for environment-oriented deployment testing.
 - Python package for local validation and integration review.
 - PDF/report for documentation and review.
-- Manifest or integrity metadata for traceability.
+- Manifest-driven integrity metadata for traceability.
 
 ## Validation Requirement
 Exported artifacts should be tested before use outside MLdeck. ONNX artifacts are designed for portable ONNX Runtime inference, subject to parity validation. Users should compare expected behavior, schema handling, preprocessing assumptions, and prediction outputs before relying on exported artifacts.

@@ -8,7 +8,7 @@ Relevant public pages:
 - [Local AutoML for CSV files](https://mldeck.com/local-automl-csv)
 
 ## Exploratory Evidence
-Exploratory evidence can help users compare models, spot weak baselines, and identify possible data-quality issues. It is useful for early evaluation, education, and prototyping.
+Exploratory evidence can help users compare models, spot weak baselines, and identify possible data-quality issues. It is useful for early evaluation, education, and review.
 
 ## Baseline Comparison
 Baseline comparison helps users understand whether a model improves on simple reference behavior such as majority-class classification or mean prediction. A model that does not beat a simple baseline should be reviewed carefully.
