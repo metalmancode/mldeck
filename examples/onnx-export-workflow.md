@@ -1,6 +1,8 @@
 # ONNX Export Workflow
 
-This public-safe example describes ONNX export at a high level. It does not include conversion internals, package internals, private runtime details, or generated artifacts.
+This public-safe example describes ONNX export at a high level. It does not include
+conversion internals, package internals, private runtime details, or generated
+artifacts.
 
 Matching public pages:
 
@@ -15,6 +17,7 @@ Related documentation:
 - [Glossary](../docs/glossary.md)
 
 ## Workflow
+
 1. Train and review an exploratory model in MLdeck.
 2. Review the feature schema and target configuration.
 3. Export an ONNX-oriented artifact package generated directly in the browser when available.
@@ -23,4 +26,7 @@ Related documentation:
 6. Test inference behavior with representative inputs and edge cases.
 
 ## Validation
-ONNX artifacts are designed for portable ONNX Runtime inference, subject to parity validation. External testing should verify feature order, missing-value handling, categorical handling, numeric ranges, output shape, and prediction behavior.
+
+ONNX artifacts are designed for portable ONNX Runtime inference, subject to parity
+validation. External testing should verify feature order, missing-value handling,
+categorical handling, numeric ranges, output shape, and prediction behavior.

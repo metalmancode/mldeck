@@ -1,6 +1,7 @@
 # MLdeck Public Link Map
 
-This page shows how MLdeck's public authority channels connect across the website, GitHub documentation, YouTube, and LinkedIn.
+This page shows how MLdeck's public authority channels connect across the website,
+GitHub documentation, YouTube, and LinkedIn.
 
 ## mldeck.com: Product Landing Pages And SEO Pages
 
@@ -16,7 +17,9 @@ The public website is the main product and SEO channel for MLdeck.
 
 ## GitHub Public Repo: Documentation, Examples, Validation Notes, Public Glossary
 
-The GitHub repository is the public documentation and trust-building hub for MLdeck. It contains documentation, example workflows, validation notes, public glossary terms, privacy notes, security guidance, and public link references.
+The GitHub repository is the public documentation and trust-building hub for MLdeck. It
+contains documentation, example workflows, validation notes, public glossary terms,
+privacy notes, security guidance, and public link references.
 
 - https://github.com/metalmancode/mldeck
 - [Documentation index](index.md)
@@ -26,19 +29,24 @@ The GitHub repository is the public documentation and trust-building hub for MLd
 
 ## YouTube: Product Demos And Workflow Proof
 
-The YouTube channel can host public demonstrations, workflow walkthroughs, and visual proof of product behavior without exposing private source code or sensitive data.
+The YouTube channel can host public demonstrations, workflow walkthroughs, and visual
+proof of product behavior without exposing private source code or sensitive data.
 
 - https://www.youtube.com/@mldeck
 
 ## LinkedIn Company Page: Brand/Entity Credibility And Public Updates
 
-The LinkedIn company page supports public brand/entity credibility, updates, launches, and context for MLdeck's product direction.
+The LinkedIn company page supports public brand/entity credibility, updates, launches,
+and context for MLdeck's product direction.
 
 - https://www.linkedin.com/company/mldeck
 - [Browser-local AutoML with ONNX export packages](https://www.linkedin.com/posts/reza-rasshidi_a-practical-look-at-browser-local-automl-activity-7472193205896224768-f6rC)
 
 ## Safety Boundary
 
-Public channels should not include private CSVs, customer data, sensitive examples, secrets, credentials, service-account files, generated export packages, private reports, or private application source code.
+Public channels should not include private CSVs, customer data, sensitive examples,
+secrets, credentials, service-account files, generated export packages, private reports,
+or private application source code.
 
-See [CONTRIBUTING.md](../CONTRIBUTING.md), [SECURITY.md](../SECURITY.md), and [PRIVACY.md](../PRIVACY.md) for public-repo safety guidance.
+See [CONTRIBUTING.md](../CONTRIBUTING.md), [SECURITY.md](../SECURITY.md), and
+[PRIVACY.md](../PRIVACY.md) for public-repo safety guidance.

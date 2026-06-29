@@ -8,7 +8,9 @@ assignees: ""
 
 ## Public Safety Check
 
-Do not include private datasets, secrets, credentials, customer data, sensitive examples, service-account files, tokens, `.env` values, generated export packages, or private MLdeck source code.
+Do not include private datasets, secrets, credentials, customer data, sensitive
+examples, service-account files, tokens, `.env` values, generated export packages, or
+private MLdeck source code.
 
 ## Public Page Or File Path
 
@@ -20,4 +22,5 @@ What wording or link change do you suggest?
 
 ## Why This Helps
 
-Explain why the change improves clarity, safety, accuracy, or public documentation quality.
+Explain why the change improves clarity, safety, accuracy, or public documentation
+quality.

@@ -1,6 +1,7 @@
 # Data Quality Checks
 
-This public-safe example shows the intended Data Quality workflow in MLdeck. It stays high level and avoids private implementation details, screenshots, or scoring formulas.
+This public-safe example shows the intended Data Quality workflow in MLdeck. It stays
+high level and avoids private implementation details, screenshots, or scoring formulas.
 
 ## Typical Workflow
 
@@ -14,13 +15,15 @@ This public-safe example shows the intended Data Quality workflow in MLdeck. It 
 
 ## What This Workflow Is For
 
-Data Quality is a browser-local review step for understanding whether a CSV is ready for modeling.
+Data Quality is a browser-local review step for understanding whether a CSV is ready for
+modeling.
 
 It is useful when the next decision is about dataset readiness, not model selection.
 
 ## What It Is Not
 
-This workflow does not train models, clean data automatically, guarantee model performance, or replace human review.
+This workflow does not train models, clean data automatically, guarantee model
+performance, or replace human review.
 
 Raw CSV data stays in the browser during normal Data Quality review.
 

@@ -1,10 +1,14 @@
 # MLdeck Public Documentation
 
-This index organizes MLdeck's public documentation for GitHub visitors, search engines, and people evaluating browser-local CSV AutoML workflows.
+This index organizes MLdeck's public documentation for GitHub visitors, search engines,
+and people evaluating browser-local CSV AutoML workflows.
 
 ## What MLdeck Is
 
-MLdeck is a browser-local, privacy-first AutoML product for practical CSV-based machine learning workflows. It focuses on local CSV review, exploratory modeling, baseline comparison, validation evidence, report output, and export artifacts for external testing.
+MLdeck is a browser-local, privacy-first AutoML product for practical CSV-based machine
+learning workflows. It focuses on local CSV review, exploratory modeling, baseline
+comparison, validation evidence, report output, and export artifacts for external
+testing.
 
 ## Core Public Topics
 
@@ -20,7 +24,10 @@ MLdeck is a browser-local, privacy-first AutoML product for practical CSV-based 
 
 ## Browser-Local AutoML
 
-Browser-local AutoML helps users start CSV-based exploratory modeling without first setting up a local Python environment or cloud notebook. MLdeck's public workflow covers CSV upload, profiling, feature and target selection, preprocessing choices, model comparison, baseline review, validation evidence, and export-oriented artifacts.
+Browser-local AutoML helps users start CSV-based exploratory modeling without first
+setting up a local Python environment or cloud notebook. MLdeck's public workflow covers
+CSV upload, profiling, feature and target selection, preprocessing choices, model
+comparison, baseline review, validation evidence, and export-oriented artifacts.
 
 Related public pages:
 
@@ -30,7 +37,9 @@ Related public pages:
 
 ## Data Quality
 
-Data Quality is a browser-local CSV review workflow for checking missingness, schema clarity, possible leakage-risk columns, target imbalance, and dataset readiness before training starts.
+Data Quality is a browser-local CSV review workflow for checking missingness, schema
+clarity, possible leakage-risk columns, target imbalance, and dataset readiness before
+training starts.
 
 Related pages:
 
@@ -41,7 +50,9 @@ Related pages:
 
 ## Privacy-First CSV Workflows
 
-During normal browser training and Data Quality flows, raw CSV data stays in the browser environment. Backend services may still support account, application, consent, or control-plane features.
+During normal browser training and Data Quality flows, raw CSV data stays in the browser
+environment. Backend services may still support account, application, consent, or
+control-plane features.
 
 Related pages:
 
@@ -51,7 +62,9 @@ Related pages:
 
 ## Export Artifacts And ONNX-Oriented Packages
 
-MLdeck describes export artifacts as validation-dependent outputs for testing outside the browser workflow. Public descriptions stay high level and do not include export internals or generated packages.
+MLdeck describes export artifacts as validation-dependent outputs for testing outside
+the browser workflow. Public descriptions stay high level and do not include export
+internals or generated packages.
 
 Related pages:
 
@@ -61,7 +74,8 @@ Related pages:
 
 ## Validation Boundaries
 
-MLdeck results are exploratory evidence until confirmed with strict validation, leakage review, time-aware validation where appropriate, and external artifact testing.
+MLdeck results are exploratory evidence until confirmed with strict validation, leakage
+review, time-aware validation where appropriate, and external artifact testing.
 
 Related pages:
 
@@ -87,6 +101,9 @@ See the [public link map](public-link-map.md) for how these channels connect.
 
 ## Safety And Disclosure Boundaries
 
-This repository is public documentation only. Do not post private CSVs, customer data, sensitive examples, secrets, tokens, service-account files, generated export packages, private reports, or private MLdeck source code.
+This repository is public documentation only. Do not post private CSVs, customer data,
+sensitive examples, secrets, tokens, service-account files, generated export packages,
+private reports, or private MLdeck source code.
 
-See the [contribution guide](../CONTRIBUTING.md), [security notes](../SECURITY.md), and [privacy notes](../PRIVACY.md) before opening public issues or pull requests.
+See the [contribution guide](../CONTRIBUTING.md), [security notes](../SECURITY.md), and
+[privacy notes](../PRIVACY.md) before opening public issues or pull requests.

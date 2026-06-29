@@ -1,6 +1,7 @@
 # Customer Churn Workflow
 
-This public-safe example outlines a typical customer churn modeling workflow in MLdeck. It is documentation only and does not include private datasets or source code.
+This public-safe example outlines a typical customer churn modeling workflow in MLdeck.
+It is documentation only and does not include private datasets or source code.
 
 Matching public pages:
 
@@ -15,6 +16,7 @@ Related documentation:
 - [Glossary](../docs/glossary.md)
 
 ## Workflow
+
 1. Upload a reviewed CSV in the browser.
 2. Select `churned` as the target when it represents the outcome to predict.
 3. Exclude identifiers such as `customer_id` from model features.
@@ -24,4 +26,8 @@ Related documentation:
 7. Treat results as exploratory until validated with a strict holdout or time-aware split.
 
 ## Interpretation
-Churn models can be sensitive to leakage and class imbalance. A high score can be misleading if the dataset includes fields that are only known after the churn event. Strict validation should be used before relying on results for retention campaigns, financial planning, or customer decisions.
+
+Churn models can be sensitive to leakage and class imbalance. A high score can be
+misleading if the dataset includes fields that are only known after the churn event.
+Strict validation should be used before relying on results for retention campaigns,
+financial planning, or customer decisions.
