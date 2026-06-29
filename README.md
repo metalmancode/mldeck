@@ -1,19 +1,21 @@
 # MLdeck
 
-MLdeck is a browser-local, privacy-first AutoML product for practical CSV-based machine
-learning workflows. It helps users review CSV quality, explore tabular models, compare
-baselines, collect validation evidence, generate reports, and prepare ONNX-oriented
-export artifacts while keeping normal browser training and Data Quality flows local to
-the user's browser environment.
+MLdeck is a browser-local, privacy-first AutoML product for practical
+CSV-based machine learning workflows. It helps users review CSV quality,
+explore tabular models, compare baselines, collect validation evidence,
+generate reports, and prepare ONNX-oriented export artifacts while keeping
+normal browser training and Data Quality flows local to the user's browser
+environment.
 
-This is the public MLdeck documentation repository. It contains public documentation,
-examples, validation notes, privacy notes, security guidance, and link maps for MLdeck's
-public website and channels.
+This is the public MLdeck documentation repository. It contains public
+documentation, examples, validation notes, privacy notes, security guidance,
+and link maps for MLdeck's public website and channels.
 
-The private commercial MLdeck source code is not included here. This repository does not
-contain the private application source, training engine, workers, export internals,
-runtime packaging, service configuration, secrets, credentials, private prompts, admin
-logic, private datasets, private reports, or generated model packages.
+The private commercial MLdeck source code is not included here. This
+repository does not contain the private application source, training engine,
+workers, export internals, runtime packaging, service configuration, secrets,
+credentials, private prompts, admin logic, private datasets, private reports,
+or generated model packages.
 
 ## Public Links
 
@@ -65,13 +67,15 @@ Useful public pages:
 
 ## Responsible Use
 
-MLdeck results should be treated as exploratory modeling evidence until confirmed with
-strict validation. Important decisions require user-side review for leakage,
-time-dependence, class imbalance, dataset suitability, and domain-specific risks.
+MLdeck results should be treated as exploratory modeling evidence until
+confirmed with strict validation. Important decisions require user-side review
+for leakage, time-dependence, class imbalance, dataset suitability, and
+domain-specific risks.
 
-Exported artifacts should be tested outside MLdeck before operational use. Users should
-confirm schema handling, preprocessing assumptions, prediction behavior, parity with
-expected results, and suitability for the intended environment.
+Exported artifacts should be tested outside MLdeck before operational use.
+Users should confirm schema handling, preprocessing assumptions, prediction
+behavior, parity with expected results, and suitability for the intended
+environment.
 
 ## What Not To Post Here
 
@@ -86,10 +90,11 @@ Do not post or upload:
 
 ## Security And Privacy Notes
 
-During normal browser training and Data Quality flows, raw CSV data stays in the browser
-environment. Backend services may still support account, application, consent, or
-control-plane features. Users remain responsible for the security of their browser,
-device, datasets, downloads, and exported artifacts.
+During normal browser training and Data Quality flows, raw CSV data stays in
+the browser environment. Backend services may still support account,
+application, consent, or control-plane features. Users remain responsible for
+the security of their browser, device, datasets, downloads, and exported
+artifacts.
 
 See:
 
@@ -107,8 +112,8 @@ See:
 
 ## License
 
-License terms for this public documentation repository should be confirmed by the
-repository owner before reuse.
+License terms for this public documentation repository should be confirmed by
+the repository owner before reuse.
 
-This repository is public documentation only, not the private MLdeck source-code
-repository.
+This repository is public documentation only, not the private MLdeck
+source-code repository.
