@@ -36,6 +36,11 @@ Users should still validate outcomes, review any suspicious columns manually, an
 
 ## Related Pages
 
-- [Browser-local AutoML](/docs/browser-local-automl.md)
-- [Privacy-first architecture](/docs/privacy-first-architecture.md)
+- [Documentation index](index.md)
+- [Browser-local AutoML](browser-local-automl.md)
+- [Data Quality use cases](data-quality-use-cases.md)
+- [Glossary](glossary.md)
+- [Privacy-first architecture](privacy-first-architecture.md)
+- [Validation limits](validation-limits.md)
+- [Data Quality checks workflow](../examples/data-quality-checks.md)
 - [Data quality checks example](https://mldeck.com/examples/data-quality-checks)

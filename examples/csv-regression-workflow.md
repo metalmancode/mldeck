@@ -7,6 +7,13 @@ Matching public pages:
 - [CSV regression model example](https://mldeck.com/examples/csv-regression-model)
 - [Local AutoML for CSV files](https://mldeck.com/local-automl-csv)
 
+Related documentation:
+
+- [Documentation index](../docs/index.md)
+- [Browser-local AutoML](../docs/browser-local-automl.md)
+- [Validation limits](../docs/validation-limits.md)
+- [Glossary](../docs/glossary.md)
+
 ## Workflow
 1. Upload a reviewed CSV in the browser.
 2. Select a numeric target column.

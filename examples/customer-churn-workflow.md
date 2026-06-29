@@ -7,6 +7,13 @@ Matching public pages:
 - [Customer churn prediction from CSV](https://mldeck.com/examples/customer-churn-prediction)
 - [Data-quality checks example](https://mldeck.com/examples/data-quality-checks)
 
+Related documentation:
+
+- [Documentation index](../docs/index.md)
+- [Data Quality](../docs/data-quality.md)
+- [Validation limits](../docs/validation-limits.md)
+- [Glossary](../docs/glossary.md)
+
 ## Workflow
 1. Upload a reviewed CSV in the browser.
 2. Select `churned` as the target when it represents the outcome to predict.
